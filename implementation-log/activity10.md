@@ -50,21 +50,6 @@ Flow Triggered
 
 ---
 
-## Planned Automation (Upcoming Activities)
-
-The flow currently contains only the trigger. The following actions will be added in the next implementation phases:
-
-- Create Service Request automatically
-- Allocate enterprise assets
-- Send notification to HR
-- Send notification to employee
-- Update onboarding status
-- Generate audit logs
-- Create approval records
-- Provision IT resources
-
----
-
 ## Concepts Learned
 
 - Introduction to Flow Designer
