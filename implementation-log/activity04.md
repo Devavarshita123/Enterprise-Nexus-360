@@ -20,8 +20,6 @@ This module will serve as the foundation for future implementations such as:
 * Asset Return
 * Incident Management
 * Procurement
-* CMDB Integration
-* AI-based Asset Recommendations
 
 ---
 
@@ -110,11 +108,9 @@ Instead of using simple text fields for employee and department information, ref
 The module has been designed with future scalability in mind so that it can later integrate with:
 
 * Procurement
-* CMDB
 * Service Catalog
 * Incident Management
 * Change Management
-* AI Services
 
 without requiring structural modifications.
 
